@@ -1,8 +1,8 @@
-# Project 2 - *TwitterEmulator*
+# Project 2 - *SimpleTwitter*
 
 **TwitterEmulator** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
-Time spent: **5** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
@@ -49,7 +49,7 @@ This application is built off of a REST Client Template source, provided by Code
 
 ## License
 
-    Copyright 2021 Joseph Barshay
+    Copyright 2021 Kajoyrie Purcell
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
